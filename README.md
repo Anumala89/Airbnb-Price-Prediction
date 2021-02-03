@@ -24,4 +24,4 @@ Our team will also use Tableau to visualize our findings during the exploration 
 * Adriana Cieslak
 * Anumala Thapa
 * Jeongdae (JD) Kwak
-* Samuel Okunola
+* Sam Okunola
